@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>games pingod on Flipping Flips</title>
+    <link>https://blog.flippingflips.xyz/en/tags/games-pingod/</link>
+    <description>Recent content in games pingod on Flipping Flips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 05 Dec 2021 12:00:11 +0900</lastBuildDate>
+    
+        <atom:link href="https://blog.flippingflips.xyz/en/tags/games-pingod/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>PinGod 🌘 Moon Station</title>
+        <link>https://blog.flippingflips.xyz/en/pinball-frameworks/pingod/games/moonstation/</link>
+        <pubDate>Sun, 05 Dec 2021 12:00:11 +0900</pubDate>
+        
+        <atom:modified>Sun, 05 Dec 2021 23:42:27 +0000</atom:modified>
+        <guid>https://blog.flippingflips.xyz/en/pinball-frameworks/pingod/games/moonstation/</guid>
+        <description>Moon Station About A simple game built using the BasicGame as a template.
+Multiplayer 1-4 players 3 Balls Per Game Video Mode Service mode music menu Rules Shoot the hole for video mode&amp;hellip;
+Download This download contains the exported and built MoonStation. Source Code
+PinGod Game Files Visual Pinball - (MoonStation (PinGod)-VPX10.vpx) 💾 Download (Mega)
+Playing in Visual Pinball Register controller see Running in VP Loading the table and launching it should be all the configuration you need to do before playing</description>
+        
+        <dc:creator>HorsePin</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>games</category>
+            
+          
+            
+              <category>games pingod</category>
+            
+          
+            
+              <category>horsepin</category>
+            
+          
+        
+        
+          
+            
+              <category>games</category>
+            
+          
+            
+              <category>download</category>
+            
+          
+            
+              <category>pingod</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>PinGod 🎮 BasicGame</title>
+        <link>https://blog.flippingflips.xyz/en/pinball-frameworks/pingod/games/basicgame/</link>
+        <pubDate>Sun, 05 Dec 2021 12:00:10 +0900</pubDate>
+        
+        <atom:modified>Sun, 05 Dec 2021 23:42:27 +0000</atom:modified>
+        <guid>https://blog.flippingflips.xyz/en/pinball-frameworks/pingod/games/basicgame/</guid>
+        <description>BasicGame About This is the most basic example of a game in PinGod and should be used as a starting point for the majority of games.
+Multiplayer 1-4 players 3 Balls Per Game Ball Trough (4 Balls) Manual Plunger Auto Plunger Multiball (4 ball) Ball Saves High Scores Attract Mode BasicGame - Visual Pinball: Download This download contains the exported and built BasicGame.
+PinGod Game Files Visual Pinball - (PinGodVp-BasicGame-VPX10-6.</description>
+        
+        <dc:creator>HorsePin</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>games</category>
+            
+          
+            
+              <category>games pingod</category>
+            
+          
+        
+        
+          
+            
+              <category>games</category>
+            
+          
+            
+              <category>download</category>
+            
+          
+            
+              <category>pingod</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

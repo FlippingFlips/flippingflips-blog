@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>download on Flipping Flips</title>
+    <link>https://blog.flippingflips.xyz/en/tags/download/</link>
+    <description>Recent content in download on Flipping Flips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 05 Dec 2021 12:00:10 +0900</lastBuildDate>
+    
+        <atom:link href="https://blog.flippingflips.xyz/en/tags/download/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>💀 Skeleton Game P-ROC</title>
+        <link>https://blog.flippingflips.xyz/en/pinball-frameworks/skeletongame-proc/about/</link>
+        <pubDate>Sun, 05 Dec 2021 12:00:10 +0900</pubDate>
+        
+        <atom:modified>Mon, 06 Dec 2021 19:51:15 +0000</atom:modified>
+        <guid>https://blog.flippingflips.xyz/en/pinball-frameworks/skeletongame-proc/about/</guid>
+        <description>SkeletonGame is a framework built upon the original pyprocgame framework for P-ROC (pinball controller boards).
+Uses the SDL2 game display for full color display and scripting is in the Python language.
+There are quite a few production games that use this framework or have used as a base.
+SkeletonGame Framework SkeletonGame.com
+SkeletonGame Manager Application To aid with creating games on the SkeletonGame (pyprocgame) framework.
+Github Source
+Github Wiki
+Dotnet SkeletonGame mode generator Generate new mode files for a game with dotnet on command line</description>
+        
+        <dc:creator>HorsePin</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>download</category>
+            
+          
+        
+        
+          
+            
+              <category>games</category>
+            
+          
+            
+              <category>skeletongame</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>🐎 Flips VPX Derby</title>
+        <link>https://blog.flippingflips.xyz/en/simulation/visualpinball/tables/vpx-derby/vpx-derby/</link>
+        <pubDate>Wed, 20 May 2020 13:00:06 +0900</pubDate>
+        
+        <atom:modified>Mon, 06 Dec 2021 18:00:21 +0000</atom:modified>
+        <guid>https://blog.flippingflips.xyz/en/simulation/visualpinball/tables/vpx-derby/vpx-derby/</guid>
+        <description>A simple roll-a-ball derby game in Visual Pinball with multiple players and CPU players.
+Feature Real horse names based on a race in 1986. Race commentary used from the race Instructions More Table info / todos can be found inside VP from the VP pause menu.
+Rules At least one human player needed to start the game and it&amp;rsquo;s first to the finish!
+CPU opponents will use the remaining bays.</description>
+        
+        <dc:creator>HorsePin</dc:creator>
+        <media:content url="https://blog.flippingflips.xyzimages/vp/tables/derby_0.9_screen.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>download</category>
+            
+          
+            
+              <category>games</category>
+            
+          
+        
+        
+          
+            
+              <category>download</category>
+            
+          
+            
+              <category>games</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>⚽ Balls - Ball decals and images</title>
+        <link>https://blog.flippingflips.xyz/en/simulation/visualpinball/guides/design/ball-decals-images/</link>
+        <pubDate>Thu, 16 Apr 2020 12:00:06 +0900</pubDate>
+        
+        <atom:modified>Sat, 04 Dec 2021 23:26:49 +0000</atom:modified>
+        <guid>https://blog.flippingflips.xyz/en/simulation/visualpinball/guides/design/ball-decals-images/</guid>
+        <description>Make sure we have the ball_HDR that is shipped with Visual Pinball templates to use as our ball image.
+Ball decal tests All these tests will have logo mode selected because we want to see the ball spin 🌀
+Try higher quality images for better results.
+Sphere texture Ok when spinning but not magic with the jaggy seam.
+Predator texture Wood panel texture Looks like a nut but perfect seam. Goin&amp;rsquo; Nuts?</description>
+        
+        <dc:creator>HorsePin</dc:creator>
+        <media:content url="https://blog.flippingflips.xyz/images/guides/design/balls/lfc-ball-vp.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>ball</category>
+            
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>blueprint</category>
+            
+          
+            
+              <category>cosmetic</category>
+            
+          
+            
+              <category>decal</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>download</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

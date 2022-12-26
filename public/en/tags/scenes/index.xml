@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>scenes on Flipping Flips</title>
+    <link>https://blog.flippingflips.xyz/en/tags/scenes/</link>
+    <description>Recent content in scenes on Flipping Flips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 03 Dec 2021 12:00:10 +0900</lastBuildDate>
+    
+        <atom:link href="https://blog.flippingflips.xyz/en/tags/scenes/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>🎬 PinGod - Scenes: Game.tscn</title>
+        <link>https://blog.flippingflips.xyz/en/pinball-frameworks/pingod/gamedev/game.tscn/</link>
+        <pubDate>Fri, 03 Dec 2021 12:00:10 +0900</pubDate>
+        
+        <atom:modified>Sun, 05 Dec 2021 00:50:32 +0000</atom:modified>
+        <guid>https://blog.flippingflips.xyz/en/pinball-frameworks/pingod/gamedev/game.tscn/</guid>
+        <description> Scene Information This scene is the first to be loaded as a display. This scene is never removed from the game but adds / removes your modes
+modes/Game.tscn: Added in favorites for quick acess Modes ScoreMode res://modes/common/score_mode/ScoreMode.tscn
+ScoreMode: Lowest layer in tree BaseMode Bonus res://modes/common/bonus/Bonus.tscn
+Bonus: Displays at end of ball Tilt A layer to show tilt warnings and tilted
+ScoreEntry res://modes/common/score_entry/ScoreEntry.tscn
+Score Entry: Basic name entry scene </description>
+        
+        <dc:creator>HorsePin</dc:creator>
+        <media:content url="https://blog.flippingflips.xyz/images/pingod/pingod-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>scenes</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>pingod</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>🎬 PinGod - Scenes: MainScene.tscn</title>
+        <link>https://blog.flippingflips.xyz/en/pinball-frameworks/pingod/gamedev/mainscene.tscn/</link>
+        <pubDate>Fri, 03 Dec 2021 12:00:10 +0900</pubDate>
+        
+        <atom:modified>Sun, 05 Dec 2021 00:50:32 +0000</atom:modified>
+        <guid>https://blog.flippingflips.xyz/en/pinball-frameworks/pingod/gamedev/mainscene.tscn/</guid>
+        <description>Scene Information This scene is the first to be loaded as a display. This scene is never removed from the game but adds / removes your modes
+Game/MainScene.tscn: Added in favorites for quick acess Modes Attract (Mode) This is an editable scene which you can find in modes/common/attract
+Standard attract mode to show high scores and PUSH START.
+When pushing start in this mode (if the Trough is ready) it will remove the attract mode and add the Game.</description>
+        
+        <dc:creator>HorsePin</dc:creator>
+        <media:content url="https://blog.flippingflips.xyz/images/pingod/pingod-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>scenes</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>pingod</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

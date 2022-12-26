@@ -1,0 +1,52 @@
+[[main]]
+  name = "About"
+  identifier = "about"
+  url = "about"
+  weight = 1
+
+
+[[main]]
+  parent = "Emulation"
+  name = "Visual PinMame"
+  url = "emulation/vpinmame"
+  weight = 10
+
+[[main]]
+  parent = "Simulation"
+  name = "Visual Pinball"
+  url = "simulation/visualpinball"
+  weight = 0
+
+[[main]]  
+  name = "Frameworks"
+  url = "pinball-frameworks"
+  weight = 0
+
+[[main]]
+  parent = "Frameworks"
+  name = "PinGod"
+  url = "pinball-frameworks/pingod"
+  weight = 0
+
+[[main]]
+  parent = "Frameworks"
+  name = "SkeletonGame"
+  url = "pinball-frameworks/skeletongame-proc"
+  weight = 0
+
+[[main]]
+  identifier = "history"
+  name = "Flips History"
+  url = "history"
+  weight = 10
+
+[[main]]
+  name = "Games"
+  weight = 10
+  url = "categories/games"
+
+[[main]]
+  parent = "Simulation"
+  name = "VPX 10.6 Api"
+  url = "simulation/visualpinball/vp-api-ref/"
+  weight = 0
